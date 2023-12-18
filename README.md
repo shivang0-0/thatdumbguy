@@ -13,6 +13,12 @@ A voice control based song player written in bash
 - web scraping is implemented by using above text as query on one of the many clone sites of youtube to get the video id.
 - this id is used to generate the video-url which is used to get the aud-url using [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 - [google_speech](https://cloud.google.com/text-to-speech/docs/libraries) is finally used for the output sound and [mpv player](https://github.com/mpv-player/mpv) plays the audio-url.
+
+
+
+
 ## Demo
 
-Insert gif or link to demo
+![](assets/1.png)
+![](assets/2.png)
+![](assets/3.png)
